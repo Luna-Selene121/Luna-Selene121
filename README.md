@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<p align="left">
+  <a href="https://github.com/Luna-Selene121">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Luna-Selene121" />
+  </a>
+  <a href="https://github.com/Luna-Selene121">
+    <img height="20" src="https://img.shields.io/github/followers/Luna-Selene121?label=follow&logo=github&style=flat" />
+  </a>>
+
+
 <!--
 **Luna-Selene121/Luna-Selene121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
