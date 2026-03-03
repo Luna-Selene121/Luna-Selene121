@@ -2,7 +2,10 @@
 
 ## ✨ About me
 - 🌱 New to programming
-- 💻 Currently learning: Python / Web development
+- 💻 Currently learning:
+  - Python
+  - Web development
+  - Game development
 - 🚀 Building small projects to improve my skills
 - 🎯 Goal: Become a better programmer step by step
 
