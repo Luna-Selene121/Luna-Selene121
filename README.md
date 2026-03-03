@@ -1,4 +1,4 @@
-# Hi! Welcome to my GitHub! 👋
+# Hi! 👋 Welcome to my GitHub! 😊
 
 ## About me
 - 🌱 New to programming
@@ -15,9 +15,10 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### Tools
+## Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luna-Selene121&show_icons=true&theme=radical)
