@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Luna
+# Hi! Welcome to my GitHub! 👋
 
 ## About me
 - 🌱 New to programming
