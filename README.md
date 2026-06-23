@@ -29,10 +29,10 @@
 ## 📫 Visitors
 <p align="left">
   <a href="https://github.com/Luna-Selene130">
-    <img height="20" src="https://komarev.com/ghpvc/?username=Luna-Selene121" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=Luna-Selene130" />
   </a>
   <a href="https://github.com/Luna-Selene130">
-    <img height="20" src="https://img.shields.io/github/followers/Luna-Selene121?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/Luna-Selene130?label=follow&logo=github&style=flat" />
   </a>
 
 <!--
