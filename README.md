@@ -24,14 +24,14 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ## 📈 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luna-Selene121&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luna-Selene130&show_icons=true&theme=radical)
 
 ## 📫 Visitors
 <p align="left">
-  <a href="https://github.com/Luna-Selene121">
+  <a href="https://github.com/Luna-Selene130">
     <img height="20" src="https://komarev.com/ghpvc/?username=Luna-Selene121" />
   </a>
-  <a href="https://github.com/Luna-Selene121">
+  <a href="https://github.com/Luna-Selene130">
     <img height="20" src="https://img.shields.io/github/followers/Luna-Selene121?label=follow&logo=github&style=flat" />
   </a>
 
